@@ -61,9 +61,9 @@ flowchart LR
 
 | | Project | The question | Built with |
 |---|---|---|---|
-| 🥩 | [**Himalaya Kött & Video**](https://github.com/ErikBenalcazar/himalaya-powerbi-report) | How are sales and staff performing in a retail business? | Power BI · DAX |
 | 🚲 | [**Freddys BI-Cycles**](https://github.com/ErikBenalcazar/adventureworks-powerbi-report) | How are sales, staff, warehouse and finances performing, in four currencies? | Power BI · DAX |
-| 🏠 | **Airbnb Market Analysis** *(link coming)* | Which accommodation should a company offer in European cities? | Power BI |
+| 🥩 | [**Himalaya Kött & Video**](https://github.com/ErikBenalcazar/himalaya-powerbi-report) | How are sales and staff performing in a retail business? | Power BI · DAX |
+
 
 ---
 
