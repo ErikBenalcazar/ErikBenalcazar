@@ -15,7 +15,7 @@
 
 ---
 
-### 🧮 About me, written as a DAX measure
+### 🧮 About me
 
 ```dax
 Erik =
@@ -29,7 +29,7 @@ RETURN
 
 ---
 
-### 🛣️ My career, as a data pipeline
+### 🛣️ My career
 
 ```mermaid
 flowchart LR
