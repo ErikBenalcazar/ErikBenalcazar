@@ -12,6 +12,7 @@
   <a href="mailto:belo.erik@hotmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-F2C811?style=for-the-badge"/></a>
   <img src="https://img.shields.io/badge/Based_in-Stockholm-005BAC?style=for-the-badge"/>
 </p>
+
 ---
 
 ### 🧮 About me, written as a DAX measure
