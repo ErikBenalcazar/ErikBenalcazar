@@ -33,9 +33,9 @@ RETURN
 
 ```mermaid
 flowchart LR
-    A["🛴 Lime<br/>Mechanics Manager<br/><i>Operations across Europe</i>"] --> B["📚 Komvux<br/>Swedish · Math 2 · Python<br/><i>2023 – 2026</i>"]
-    B --> C["📊 Nackademin<br/>BI Analytics<br/><i>2026 –</i>"]
-    C --> D["🚀 LIA<br/><i>Your company?</i>"]
+    A["Lime<br/>Mechanics Manager<br/>Operations across Europe"] --> B["Komvux<br/>Swedish, Math 2, Python<br/>2023-2026"]
+    B --> C["Nackademin<br/>BI Analytics<br/>2026-"]
+    C --> D["LIA<br/>Your company?"]
     style A fill:#1f2937,stroke:#F2C811,color:#fff
     style B fill:#1f2937,stroke:#F2C811,color:#fff
     style C fill:#1f2937,stroke:#F2C811,color:#fff
